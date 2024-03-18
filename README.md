@@ -58,7 +58,7 @@ In every model we split data into training and test sets. To evaluate we ran cro
 8. Our grid search of our AdaBoost pipeline resulted in a best model with an accuracy of 90%, and a precision of 55%.
 
 ## Results
-We settled on our Gradient Boosting moddel because it had the best scores: when it predicted that full vaccination was achieved, it was right 71% of the time. This is an improvement of 71 percentage points over our dummy model. 
+We settled on our Gradient Boosting model because it had the best scores: when it predicted that full vaccination was achieved, it was right 71% of the time. This is an improvement of 71 percentage points over our dummy model. 
 
 ![Gradient Boosting Final Model Feature Importances Bar Graph](images/gb_coefs.png)
 
